@@ -11,6 +11,6 @@ Hi, I'm Pasha 😉, a programmer 👨🏻‍💻 from World . I'm an open-source
 
 - 👨🏻‍💻 I’m currently working on World.
 - 🌱 I’m currently learning Python.
-- 🤔 My research interests are with Blockchain Systems, Deep Reinforcement Learning, etc.
+- 🤔 My research interests are with All.
 - 💬 Ask me about anything, I would not like to answer.
 
