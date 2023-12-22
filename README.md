@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Pasha 
-- 👀 I’m interested You
-- 🌱 I’m currently learning for you
-- 💞️ I’m looking to collaborate on you
-- 📫 How to reach you
+### HI THERE 👋
 
-<!---
-NPMA7/NPMA7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br />
+<br />
+
+Hi, I'm Pasha 😉, a programmer 👨🏻‍💻 from World . I'm an open-source profession and always develop in html. Beside's programming, I like delicious food 🥗🥩🌮🍣 and doing sports 🏃⛹️‍♂️🏋🏼‍♂️.
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+
+**Current Status Quo**
+
+- 👨🏻‍💻 I’m currently working on World.
+- 🌱 I’m currently learning Python.
+- 🤔 My research interests are with Blockchain Systems, Deep Reinforcement Learning, etc.
+- 💬 Ask me about anything, I would not like to answer.
+
