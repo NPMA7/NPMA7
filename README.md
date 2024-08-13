@@ -10,7 +10,5 @@ Hi, I'm Pasha 😉, a programmer 👨🏻‍💻 from World . I'm an open-source
 **Current Status Quo**
 
 - 👨🏻‍💻 I’m currently working on World.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning JavaScript.
 - 🤔 My research interests are with All.
-- 💬 Ask me about anything, I would not like to answer.
-
